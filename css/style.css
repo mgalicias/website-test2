@@ -1,0 +1,57 @@
+/* Default Values */
+body{
+    font-family: 'Indie Flower', cursive;
+    margin: 0;
+}
+.container-fluid {
+    padding: 0;
+}
+
+
+/* Header style */
+
+.header-title{
+    background-color:#3e5c76;
+    margin: 0;
+    padding: 0;
+}
+
+#title{
+    color: #faf1d8;
+    font-family: 'Lobster', cursive;
+    font-size: 12.3rem;
+    font-weight: bolder;
+    padding: 3rem 0;
+}
+
+/* Dice */
+
+.btn{
+    background-color: #9c060c;
+    border: 1px solid #a7333f;
+    color: #faf1d8;
+    font-size: 2rem;
+    margin-top: 2rem;
+}
+.btn:hover{
+    background-color: #cf1b1b;
+    border: 1px solid #a7333f;
+}
+.title-player{
+    font-size: 3rem;
+    padding: 3rem 0 1rem;
+}
+
+/* footer */
+ footer{
+    background-color: #3e5c76;
+    color: #faf1d8;
+    margin: 4.1rem 0 0;
+    padding-bottom: 0;
+ }
+ h5{
+    font-size: 1rem;
+    font-weight: bolder;
+    margin-bottom: 0;
+    padding-top: 2rem;
+ }
