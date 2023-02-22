@@ -1,7 +1,3 @@
-//alert("Hello World");
-//document.querySelector("h1").innerHTML = "Good Bye" // document object element module
-
-
 function rollTheDice(){
     var dice1Number = Math.floor(Math.random()*6);
     var dice2Number = Math.floor(Math.random()*6);
